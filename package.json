@@ -1,0 +1,26 @@
+{
+  "name": "portalhidromex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.0",
+    "mongoose": "^5.10.7",
+    "mongoose-pagination": "^1.0.0",
+    "multer": "^1.4.2",
+    "path": "^0.12.7",
+    "uuid": "^8.3.1"
+  }
+}
